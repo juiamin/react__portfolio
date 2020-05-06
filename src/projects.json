@@ -1,0 +1,39 @@
+[
+ 
+  {
+    "id": 2,
+    "project": "TravelNut",
+    "image": "assets\\images\\travelnut.PNG",
+    "description": "Helps tourists explore new places who are not sure where to go.",
+    "technologies": "Jquery, Bulma CSS Framework, Moment, Fontawesome Leaflet & Mapbox API for Map Accuweather API TicketMaster API for events",
+    "applicationURL": "https://smeruva1.github.io/TravelNut/",
+    "githubURL": "https://github.com/smeruva1/TravelNut"
+  },
+  {
+    "id": 3,
+    "project": "Employee Directory",
+    "image": "assets\\images\\employee.PNG",
+    "description": "The application helps a user to able to view ABC Companies entire directory at once, able to sort and  filter by name.",
+    "technologies": "React, Bootstrap, React Bootstrap Table, Axios, Randomuser API to fetch 200 users with images.",
+    "applicationURL": "https://hungry-curie-3e9097.netlify.app/",
+    "githubURL": "https://github.com/juiamin/employee__tracker"
+  },
+  {
+    "id": 4,
+    "project": "Eat Da Burger App",
+    "image": "assets\\images\\burger.PNG",
+    "description": "A burger logger application front end is generated with handlebars dynamic html pages, the application also has middleware for GET, UPDATE and routes and data is persistent stored in mySQL",
+    "technologies": "MySQL, Node, Express, Handlebars, ORM, MVC, Heroku",
+    "applicationURL": "https://serene-peak-47650.herokuapp.com/",
+    "githubURL": "https://github.com/juiamin/burger"
+  },
+  {
+    "id": 5,
+    "project": "The Weather Dashboard",
+    "image": "assets\\images\\weatherdashboard.PNG",
+    "description": "Webbased Application to allow users to search weather conditions and future outlook for multiple cities. ",
+    "technologies": "Bootstrap, JQuery Ajax, Open Weather API, local storage. ",
+    "applicationURL": "https://juiamin.github.io/weather_dashboard/",
+    "githubURL": "https://github.com/juiamin/weather_dashboard"
+  }
+]
